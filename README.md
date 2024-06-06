@@ -73,7 +73,6 @@ gaming_profile/
 ├── package.json
 ├── README.md
 └── vite.config.js
-
 ```
 
 ## Contribuição
